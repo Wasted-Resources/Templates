@@ -1,8 +1,9 @@
 #region Project Details
 /*
 * Project: [Project Name]
-* Author: [Name] / [Email]
-* Issue: Link: https://github.com/orgs/Wasted-Resources/[ProjectName]/issues/[ID]
+* Author:[Author] / [Email]
+* Issue: Link: https://github.com/orgs/Wasted-Resources/[Project Name]/issues/[ID]
+* Date: #DATE#
 */
 
 /*
@@ -32,7 +33,7 @@ Use side comments in line to describe lines that obfuscate their function as exp
 using UnityEngine;
 
 
-public class ClassName : MonoBehaviour
+public class [Scriptname] : MonoBehaviour
 {
     #region Internal
     private int someValue;
